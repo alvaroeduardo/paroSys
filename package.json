@@ -1,0 +1,23 @@
+{
+  "name": "parosys",
+  "version": "1.0.0",
+  "description": "Sistema de gerenciamento de paróquias",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alvaroeduardo/paroSys.git"
+  },
+  "author": "Álvaro Eduardo Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alvaroeduardo/paroSys/issues"
+  },
+  "homepage": "https://github.com/alvaroeduardo/paroSys#readme",
+  "devDependencies": {
+    "electron": "^16.0.5"
+  }
+}
